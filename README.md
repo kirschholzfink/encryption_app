@@ -17,4 +17,4 @@ m : 259,200
 
 key : e.g. 3
 
-I've also included "Gedicht.txt" as a sample file for you to use.
+As a sample file, I've included "Gedicht.txt".
