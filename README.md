@@ -10,6 +10,9 @@ As encryption quality is depends significantly on the complexity of your paramet
 here's my recommendation:
 
 a : 421
+
 b : 54,773
+
 m : 259,200
+
 key : e.g. 3
