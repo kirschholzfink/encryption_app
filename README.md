@@ -2,9 +2,9 @@
 
 This app encrypts as well as decrypts data.
 
-Upon executing the file, the program will prompt the user to enter parameters used to encrypt or decrypt data.
+Upon executing the file, the program will prompt the user to enter parameters used in the de-/encryption process.
 
-In order to decrypt a file that has previously been encrypted with a set of parameters, the same parameters should be used.
+(In order to decrypt a file that has previously been encrypted with a set of parameters, naturally, the same parameters should be used.)
 
 As encryption quality depends significantly on the complexity of your parameters, to give it a quick try,
 here's my recommendation:
